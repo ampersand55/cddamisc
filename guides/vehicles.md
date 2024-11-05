@@ -1,3 +1,14 @@
+# Links
+
+1. [Wheelbarrow with pedals](#wheelbarrow-with-pedals)
+2. [Unicycle trashcan from front-side of a bike](#unicycle-trashcan-from-front-side-of-a-bike)
+3. [Wooden unicycle trashcab from scratch without welding](#wooden-unicycle-trashcab-from-scratch-without-welding)
+4. [Motorized unicycle trashcan from any vehicle with frame, controls and no enabled security system](#motorized-unicycle-trashcan-from-any-vehicle-with-frame-controls-and-no-enabled-security-system)
+5. [Upgrades to consider](#upgrades-to-consider)
+6. [How to get items](#how-to-get-items)
+
+
+
 # Wheelbarrow with pedals
 
 Easy to make.
@@ -44,7 +55,7 @@ Easy to make.
 - foot pedals
 - 27" bicycle wheel
 - industrial trash can
-- 
+
 #### Resulting vehicle
 ```
     [extra light frame]
@@ -57,15 +68,18 @@ Easy to make.
 You need to find any vehicle, such as a bike or motorcycle, with an intact light wheel mount (steerable) mounted on an intact frame. 
 
 The starting vehicle should have these parts:
-- [any type of frame]
-- -light wheel mount (steerable)
+```
+    [any type of frame]
+    -light wheel mount (steerable)
+```
 
 You'll also need one intact 27" wheel and one foot crank, but it doesn't have to be from the same bike. 
 
 Smash the middle part of the bike and it should separate in two. You only need the front part of the bike. You can make a homewrecker to smash the bike.
 
 First remove the wheel, then reinstall it as a 27" unicycle wheel. Then install a wooden aisle or a collapsible wooden isle on the same tile.
-- 
+
+ 
 ---
 
 # Wooden unicycle trashcab from scratch without welding. 
@@ -106,7 +120,7 @@ This is a great vehicle you use all the way to the end game.
 1 tool with bolt turning of 2 or more.
 - 1 tool with hammering of 2 or more.
 - 1 tool with drilling 1 or more.
-#### #### Components
+#### Components
 - any vehicle with vehicle controls
 - wooden wheel mount 
 - jerry can or 60l tank
@@ -148,13 +162,15 @@ Resulting vehicle:
 
 ---
 
+# Upgrades to consider
+
 #### Upgrades you might want to consider for all vehicles:
 - cloth roof
 - truck horn
 - bike rack to turn it into a 2 square vehicle. Either extra storage or a boom crane.
 - seat belt or 5 point harness.
 - cargo lock
-- 
+
 #### Upgrades you might want to consider for vehicles with batteries:
 - dashboard for controlling electronics
 - headlights or flood light for seeing at night
@@ -177,19 +193,29 @@ Resulting vehicle:
 
 ---
 
-Foot crank (aka pedals): disassemble an ergometer (exercise bike). 
+# How to get items
 
-0.05 L engine: Disassemble a lawn mower or jackhammer
+Foot crank (aka pedals)
+- disassemble an ergometer (exercise bike). 
 
-Other engines: Remove it from another small vehicle.
+0.05 L engine
+- Disassemble a lawn mower or jackhammer
 
-Industrial trash (359.61 L): remove from a rolling trash can you can find in front of residential houses.
+Other engines
+- Remove it from another small vehicle.
 
-steel jerry can (20 L): disassemble a large fire extinguisher
+Industrial trash (359.61 L)
+- Remove from a rolling trash can you can find in front of residential houses.
 
-metal tank (60 L): disassemble standing tank, wood stove or heavy machinery. Or remove tank from vehicles.
+steel jerry can (20 L)
+- disassemble a large fire extinguisher
+- remove tank from vehicles.
 
-# Recipes
+Metal tank (60 L)
+- disassemble standing tank, wood stove or heavy machinery. 
+- remove tank from vehicles.
+
+## Recipes
 
 ### Wooden wheel mount
 
@@ -204,7 +230,6 @@ metal tank (60 L): disassemble standing tank, wood stove or heavy machinery. Or 
 - nail (12)
 - 2 planks
 - 1 steel wire OR 1 medium steel wire OR 1 high steel wire OR 1 hardened steel wire OR 1 tempered steel wire
-
 
 ### Foldable wooden frame
 
