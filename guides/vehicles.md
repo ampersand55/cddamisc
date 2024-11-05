@@ -13,16 +13,16 @@
 
 Easy to make.
 
-## Requirements
+### Requirements
 
 #### Skills
 - none
 #### Tools
 - 1 tool with bolt turning of 2 or more.
-#### #### Components
+#### Components
 - Wheelbarrow
 - 1 foot crank
-#### Resulting vehicle:
+#### Resulting vehicle
 ```
 [handle]
 light wheel mount
@@ -43,9 +43,9 @@ Switch 8" the wheelbarrow wheel for a unicycle wheel for slightly better road pe
 
 Easy to make.
 
-## Requirements
+### Requirements
 #### Skills
-- Fabrication 1
+- Fabrication (1)
 #### Tools
 - 1 tool with bolt turning of 2 or more.
 - 1 tool with hammering of 2 or more.
@@ -55,7 +55,6 @@ Easy to make.
 - foot pedals
 - 27" bicycle wheel
 - industrial trash can
-
 #### Resulting vehicle
 ```
     [extra light frame]
@@ -88,8 +87,8 @@ Good when you have tools and fabrication 4, but just can't find a base vehicle f
 
 ### Requirements
 #### Skills
-- Fabrication 1 (4 for Wooden wheel mount)
-- Mechanics 2
+- Fabrication (1) (4 for Wooden wheel mount)
+- Mechanics (2)
 #### Tools
 - 1 tool with bolt turning of 2 or more.
 - 1 tool with hammering of 2 or more.
@@ -114,8 +113,8 @@ This is a great vehicle you use all the way to the end game.
 
 ### Requirements
 #### Skills
-- Fabrication 1 (4 for Wooden wheel mount)
-- Mechanics 2
+- Fabrication (1) (4 for Wooden wheel mount)
+- Mechanics (2)
 #### Tools
 1 tool with bolt turning of 2 or more.
 - 1 tool with hammering of 2 or more.
@@ -195,25 +194,14 @@ Resulting vehicle:
 
 # How to get items
 
-Foot crank (aka pedals)
-- disassemble an ergometer (exercise bike). 
-
-0.05 L engine
-- Disassemble a lawn mower or jackhammer
-
-Other engines
-- Remove it from another small vehicle.
-
-Industrial trash (359.61 L)
-- Remove from a rolling trash can you can find in front of residential houses.
-
-steel jerry can (20 L)
-- disassemble a large fire extinguisher
-- remove tank from vehicles.
-
-Metal tank (60 L)
-- disassemble standing tank, wood stove or heavy machinery. 
-- remove tank from vehicles.
+| Item  | How to get |
+| :--- | --- |
+| Foot crank (aka pedals) | Disassemble an ergometer (exercise bike) |
+| 0.05 L engine | Disassemble a lawn mower or jackhammer |
+| Other engines | Remove it from another small vehicle |
+| Industrial trash (359.61 L) | Remove from a rolling trash can you can find in front of residential houses. |
+| Steel jerry can (20 L) | Disassemble a large fire extinguisher or  remove tank from vehicles |
+| Metal tank (60 L) | Disassemble standing tank, wood stove or heavy machinery or remove tank from vehicle | 
 
 ## Recipes
 
