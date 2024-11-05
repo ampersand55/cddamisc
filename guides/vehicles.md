@@ -1,5 +1,7 @@
 # Early game 1 square vehicles for Cataclysm: Dark days ahead
 
+## Intro
+
 Acquiring a vehicle is one of the first things you should do in Cataclysm: Dark days ahead. It lets you explore the map safely as its faster than zombies and it provides storage space for when you are scavenging. 
 
 These vehicles are all 1 square and neither require high mechanics skill or advanced materials or tools like welding. As these vehicles are only 1 square, they can be used as shopping carts and be [g]rabbed and pulled into buildings. They are generally to heavy to pulled along on offroad tiles though. 
@@ -131,7 +133,7 @@ This is a great vehicle you use all the way to the end game. It can be attached 
 - Fabrication (1) (4 for Wooden wheel mount)
 - Mechanics (2)
 #### Tools
-1 tool with bolt turning of 2 or more.
+- 1 tool with bolt turning of 2 or more.
 - 1 tool with hammering of 2 or more.
 - 1 tool with drilling 1 or more.
 #### Components
@@ -224,7 +226,9 @@ Resulting vehicle:
 
 ## Recipes
 
-### Homewrecker
+<details>
+
+<summary>Homewrecker</summary>
 
 #### Skills
 - None
@@ -237,7 +241,11 @@ Resulting vehicle:
 
 Get long strings by [e]xamining windows and [t]ear down the curtains.
 
-### Wooden wheel mount
+</details>
+
+<details>
+
+<summary>Wooden wheel mount</summary>
 
 #### Skills
 - fabrication (4)
@@ -251,7 +259,37 @@ Get long strings by [e]xamining windows and [t]ear down the curtains.
 - 2 planks
 - 1 steel wire OR 1 medium steel wire OR 1 high steel wire OR 1 hardened steel wire OR 1 tempered steel wire
 
-### Foldable wooden frame
+</details>
+
+<details>
+
+<summary>Light wooden frame</summary>
+
+#### Skills
+- none
+#### Components
+- 1 short rope OR 1 short vine OR 1 short cordage rope OR 1 seat belt
+- 1 light wooden frame
+
+</details>
+
+<details>
+
+<summary>Wooden frame</summary>
+
+#### Skills
+- fabrication (1)
+#### Tools 
+- 1 tool with hammering of 2 or more.
+#### Components
+- nail (20)
+- 1 wooden frame
+
+</details>
+
+<details>
+
+<summary>Foldable wooden frame</summary>
 
 #### Skills
 - fabrication (2)
@@ -263,23 +301,7 @@ Get long strings by [e]xamining windows and [t]ear down the curtains.
 - 2 sticks
 - nail (20)
 
-### Wooden frame
-
-#### Skills
-- fabrication (1)
-#### Tools 
-- 1 tool with hammering of 2 or more.
-#### Components
-- nail (20)
-- 1 wooden frame
-
-### Light wooden frame
-
-#### Skills
-- none
-#### Components
-- 1 short rope OR 1 short vine OR 1 short cordage rope OR 1 seat belt
-- 1 light wooden frame
+</details>
 
 
 # Misc
